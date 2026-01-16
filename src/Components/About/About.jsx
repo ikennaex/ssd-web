@@ -19,11 +19,11 @@ const About = () => {
           {/* TEXT CONTENT */}
           <div>
             <h2 className="text-3xl lg:text-4xl font-bold text-black mb-6">
-              About Global SSD Chemicals
+              About Formular 1 Chemical Solutions
             </h2>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              At Global SSD Chemicals, we specialize in providing
+              At Formular 1 Chemical Solutions, we specialize in providing
               professional-grade SSD chemical solutions, activation powders,
               and advanced cleaning equipment for currency restoration and
               industrial use. With years of experience in the chemical industry,
