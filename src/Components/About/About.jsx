@@ -10,7 +10,7 @@ const About = () => {
           {/* IMAGE */}
           <div className="flex justify-center lg:justify-start">
             <img
-              src="/images/aboutimg.jpg"
+              src="/images/labtech2.jpg"
               alt="Global SSD Chemicals"
               className="w-full max-w-md rounded-md object-cover"
             />
