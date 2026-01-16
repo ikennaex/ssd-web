@@ -22,8 +22,14 @@ const Footer = () => {
           </p>
           <p className="mb-4">
             Phone:{" "}
-            <a href="tel:+1234567890" className="underline hover:text-gray-300">
+            <a href="tel:+265985789042" className="underline hover:text-gray-300">
               +265 985 789 042
+            </a>
+          </p>
+          <p className="mb-4">
+            WhatsApp:{" "}
+            <a href="https://wa.me/258872243416" target="_blank" className="underline hover:text-gray-300">
+              +258 872 243 416
             </a>
           </p>
           <p className="text-sm text-gray-400">
