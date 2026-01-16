@@ -28,13 +28,13 @@ const Herosection = () => {
         variants={textOverlay}
         initial="hidden"
         animate="visible"
-        className="absolute top-1/4 left-10 -translate-y-1/2 z-20 max-w-xl"
+        className="absolute top-1/4 lg:left-10 ml-4 -translate-y-1/2 z-20 max-w-xl"
       >
         <p className="text-customOrange font-semibold tracking-widest text-sm lg:text-base mb-3">
           Premium Lab-Grade Solutions
         </p>
 
-        <h2 className="text-white text-3xl lg:text-6xl font-bold leading-tight drop-shadow-xl">
+        <h2 className="text-white text-3xl lg:text-5xl font-bold leading-tight drop-shadow-xl">
           FORMULAR 1 CHEMICAL SOLUTION
         </h2>
 
@@ -44,7 +44,7 @@ const Herosection = () => {
         </p>
 
         <a
-          href="mailto:thaifchikiezmanltd@gmail.com"
+          href="mailto:info@formular1chemicalsolution.com"
           className="mt-6 inline-block px-6 py-3 rounded-full bg-customBlue text-white font-semibold shadow-lg hover:scale-105 transition scale duration-300"
         >
           Learn More
