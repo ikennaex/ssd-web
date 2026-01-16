@@ -26,7 +26,7 @@ const Contact = () => {
     <div className="bg-gray-50 min-h-screen py-16 px-4 pt-32">
       <div className="max-w-4xl mx-auto bg-white shadow-md rounded-lg p-8">
         <h1 className="text-3xl font-bold mb-6 text-center">
-          Contact FORMULAR 1 CHEMICAL SOLUTION
+          Contact Us
         </h1>
         <p className="text-center mb-8 text-gray-600">
           Have questions or need assistance? Fill out the form below and our

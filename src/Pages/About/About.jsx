@@ -15,7 +15,7 @@ const About = () => {
       <section className="bg-customBlue text-white py-24">
         <div className="max-w-5xl mx-auto text-center px-4">
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-6">
-            About Us – FORMULAR 1 CHEMICAL SOLUTION
+            About Us s
           </h1>
           <p className="text-base sm:text-lg md:text-xl mb-3">
             Excellence in Science. Precision in Purity. Trust Worldwide.

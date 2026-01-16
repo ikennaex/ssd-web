@@ -37,7 +37,7 @@ const Services = () => {
       <section className="bg-customBlue text-white py-20 px-4">
         <div className="max-w-5xl mx-auto text-center">
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-6">
-            FORMULAR 1 CHEMICAL SOLUTION — Our Services
+            Our Services
           </h1>
           <p className="text-sm sm:text-base md:text-lg mb-3">
             At FORMULAR 1 CHEMICAL SOLUTION, we specialize in the advanced restoration
